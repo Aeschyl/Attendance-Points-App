@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>671522364896-aeul9rk7sp519d8chtu541kmfv5417rj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.671522364896-aeul9rk7sp519d8chtu541kmfv5417rj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>671522364896-jhkfek9b243rk3fbmnnqmacrt24su5n7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2ywWXo7jQue0d5iT5VdtuzqVidcsJ1sg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>671522364896</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fblaLetteringPointApp</string>
+	<key>PROJECT_ID</key>
+	<string>fbla-letter-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fbla-letter-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:671522364896:ios:bf403497f2b511d7219f85</string>
+</dict>
+</plist>
